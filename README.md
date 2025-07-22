@@ -6,4 +6,18 @@ This course aims to prepare students with basic coding backgrounds and abilities
 This repository will be used as part of class participation where we will collect problems we solved in class, with proper documented code that will allow for review and proof of what we learn throughout the semester. 
 The versions of the LeetCode problems submitted will be put to a vote in class where we compare people's approaches, explanations, and solutions.
 
+![App Platorm](https://imgs.xkcd.com/comics/good_code.png)
+
+# Things to be aware of:
+
+## Code Quality
+> *"Nobody likes to eat a half baked cookie"*
+
+![App Platform](https://imgs.xkcd.com/comics/code_quality.png)
+
+## Use of AI Tools
+
+![App Platform](https://imgur.com/39PyvcX.png)
+
 See you in class!
+
